@@ -1,0 +1,17 @@
+board:
+  - createBoard:
+  - updateBoard:
+  - deleteBoard:
+  - getWorkspaceForBoard:
+example:
+  - hello:
+user:
+  - createUser:
+  - getUserById:
+workspace:
+  - createWorkspace:
+  - getWorkspaceByUser:
+  - getWorkspaceById:
+  - getBoardByWorkspace:
+  - updateWorkspace:
+  - deleteWorkspace:
